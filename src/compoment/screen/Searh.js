@@ -4,6 +4,7 @@ import SearBox from "../screenCompoment/SearBox";
 
 const Searh = () => {
     return (
+
         <View>
             <SearBox />
         </View>
